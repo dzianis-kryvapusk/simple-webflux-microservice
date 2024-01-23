@@ -1,0 +1,5 @@
+third-party-api:
+  joke:
+    baseUrl: https://official-joke-api.appspot.com
+    uri: /random_joke
+    timeout: 10

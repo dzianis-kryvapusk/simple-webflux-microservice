@@ -1,0 +1,5 @@
+third-party-api:
+  joke:
+    baseUrl: http://localhost:1080
+    uri: /random_joke
+    timeout: 10
